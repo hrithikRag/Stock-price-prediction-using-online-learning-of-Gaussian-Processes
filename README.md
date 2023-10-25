@@ -1,5 +1,3 @@
-Certainly, here's a professional project description suitable for a GitHub repository:
-
 **Project Title:** 
 Predicting Monthly Stock Prices for Apple Inc. Using Gaussian Processes
 
