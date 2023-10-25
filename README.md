@@ -22,3 +22,8 @@ This project focuses on the application of Gaussian Processes (GPs) for the purp
 **Contributions:**
 
 This project offers practical experience in time series analysis, kernel selection, hyperparameter tuning, and predictive modeling within the context of financial forecasting. By sharing this repository, we aim to contribute to the broader data science and finance communities, fostering a deeper understanding of time series analysis and predictive modeling techniques.
+
+**Keywords:**
+
+Gaussian Process Regression, Radial Basis Function (RBF), Exponential Sine Squared, Matern, Kernels, Stock Prices, Online Learning, Predictive Modeling, Time Series Analysis
+
